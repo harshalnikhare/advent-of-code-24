@@ -31,6 +31,7 @@ function getFreqCounterObj(arr: number[][]) {
 
   return freqCounter;
 }
+console.log("rtet");
 
 function getSumFromObject(freqCounter: FreqCounter) {
   let total = 0;

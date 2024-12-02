@@ -1,3 +1,6 @@
+# inputs
+input*.txt
+
 # Logs
 logs
 *.log
